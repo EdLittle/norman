@@ -1,0 +1,127 @@
+CODE,DAC Code
+AD1,130 – Legal and judicial development
+AD1,210 – Security system management and reform
+AD1,160 – Human rights
+AD1,170 – Women’s equality organisations and institutions
+AD2,311 - Agriculture
+AD3,15111 - Public finance management
+AD3,15110 - Public sector policy and administration
+AD4,99810 - Non Focal Sector
+AD5,51010 - General Budget Support
+AD6,232 - Energy generation (Renewable Sources)
+AD7,15110 - Public sector policy and administration
+AD8,120 - Health
+AD8,12110 - Health policy and administrative management
+AD8,12240 - Basic nutrition
+AD8,12261 - Health education
+AD8,140 - Water and Sanitation
+AD8,14032 - Basic Sanitation
+AD8,311 - Agriculture
+AD8,31166 - Agricultural Extension
+AD9,11120 - Education facilities and training
+AD9,11110
+AD9,11130 - Teacher Training
+AD10,15112 - Decentralisation and support to sub-national government
+AD11,15210 - Security system management and reform
+AD14,15210 - Security system management and reform
+AD14,74010 - Disaster risk reduction
+AD15,15210 - Security system management and reform
+AD16,15210 - Security system management and reform
+AD17,15220 - Civilian peace-building
+AD17,conflict prevention and resolution
+AD18,250 - Business and other
+AD18,25010 - Business support services
+AD19,14010 - Water sector policy and administrative management
+AD19,14050 - Waste management / disposal
+AD19,16050 - Multi-sector aid for basic social services
+AD19,21010 - Transport policy and administrative management
+AD19,23010 - Energy Policy and administrative management
+AD19,32130 - SME Development
+AD19,41010 - Environmental policy and administrative management
+AD20,74010 - Disaster risk reduction
+AD21,15130 - Legal and judicial development
+AD22,14010 - Water sector policy and administrative management
+AD22,"""23310 - Energy Generation"
+AD22,"non-renewable sources"""
+AD22,41010 - Environmental policy and administrative management
+AD23,32130 - SME Development
+AD24,43040 - Rural development
+AD25,31163 - Livestock
+AD26,41010 - Environmental policy and administrative management
+AD26,410 - General environmental protection
+AD27,14020 - Water supply and sanitation - large systems
+AD27,14015 - Water resources conservation
+AD27,31140 - Agricultural water resources
+AD28,43010 - Multi-sector
+AD28,410 - General environmental protection
+AD28,110 - Education
+AD28,15160 - Gender
+AD29,23230 - Energy generation - Renewable Sources
+AD30,41010 - Environmental policy and administrative management
+AD31,41010 - Environmental policy and administrative management
+AD31,22010 - Communication policy and administrative management
+AD32,23230 - Energy generation - Renewable Sources
+AD32,23183 - Energy conservation and demand-side efficiency
+AD32,23110 - Energy policy and administrative management
+AD33,43010 - Multi-sector
+AD33,410 - General environmental protection
+AD33,110 - Education
+AD33,15160 - Gender
+AD34,31261 - Reforestation (fuelwood/charcoal)
+AD34,41010 - Environmental policy and administrative management
+AD35,41010 - Environmental policy and administrative management
+AD36,41010 - Environmental policy and administrative management
+AD37,15111 - Public finance management
+AD38,313 - Fishing
+AD38,31310 - Fisheries policy and administrative management
+AD38,31320 - Fisheries development
+AD38,31382 - Fisheries research
+AD38,410 - General environmental protection
+AD38,41030 - Biodiversity
+AD39,33110 - Trade policy and administrative management
+AD39,25010 - Business support services
+AD39,33120 - Trade facilitation
+AD40,15230 - Post conflict – peace-building
+AD40,15160 - Gender
+AD40,11130 - Teacher Training
+AD40,11220 - Basic Primary Education
+AD40,11230 - Basic Life skills for youth and adults
+AD41,15110 - Public sector policy and administration
+AD41,15111 - Public finance management
+AD42,32120 - Industrial development
+AD42,41010 - Environmental policy and administrative management
+AD43,23010 - Energy Policy and administrative management
+AD43,41010 - Environmental policy and administrative management
+AD43,32130 - SME Development
+AD43,21010 - Transport policy and administrative management
+AD43,16050 - Multi-sector aid for basic social services
+AD44,31120 - Agriculture Development
+AD44,22040 - Communication Technologies
+AD45,15220 - Civilian peace-building
+AD45,conflict prevention and resolution
+AD45,15230 - Post conflict – peace-building
+AD46,41010 - Environmental policy and administrative management
+AD47,410 - General environmental protection
+AD47,41010 - Environmental policy and administrative management
+AD47,41020 - Biosphere protection
+AD47,41030 - Biodiversity
+AD47,31130 - Agricultural land resources
+AD47,31210 - Forestry policy and administrative management
+AD47,33110 - Trade policy and administrative management
+AD47,33130 - Regional trade agreements
+AD47,33140 - Multilateral trade negotiations
+AD48,41010 - Environmental policy and administrative management
+AD49,41030 - Biodiversity
+AD49,14010 - Water sector policy and administrative management
+AD50,31210 - Forestry policy and administrative management
+AD51,41010 - Environmental policy and administrative management
+AD52,43040 - Rural development
+AD52,52010 - Food security
+AD52,12240 - Basic nutrition
+AD53,43010 - Multi-sector
+AD53,11220 - Basic Primary Education
+AD54,16020 - Employment policy and administrative management
+AD54,43040 - Rural development
+AD54,73010 - Reconstruction/relief and rehabilitation
+AD54,32130 - SME Development
+AD54,16061 - Culture
